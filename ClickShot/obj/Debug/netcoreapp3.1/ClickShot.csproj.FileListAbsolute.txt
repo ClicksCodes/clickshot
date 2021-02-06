@@ -22,3 +22,4 @@ C:\Users\samue\Documents\Code\CS\ClickShot\ClickShot\obj\Debug\netcoreapp3.1\Cli
 C:\Users\samue\Documents\Code\CS\ClickShot\ClickShot\obj\Debug\netcoreapp3.1\ClickShot.pdb
 C:\Users\samue\Documents\Code\CS\ClickShot\ClickShot\obj\Debug\netcoreapp3.1\ClickShot.genruntimeconfig.cache
 C:\Users\samue\Documents\Code\CS\ClickShot\ClickShot\bin\Debug\netcoreapp3.1\Content\ball.xnb
+C:\Users\samue\Documents\Code\CS\ClickShot\ClickShot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

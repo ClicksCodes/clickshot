@@ -7,12 +7,13 @@ namespace ClickShot.Towers
 {
     public abstract class UpgradeList
     {
-
-        public static Newtonsoft.Json.JsonTextReader Get(string name)
+        public static string Get(string name)
         {
             TextReader tr = File.OpenText("./ul.json");
             JsonTextReader jr = new JsonTextReader(tr);
-            return jr;
+            var s = jr.ToString();
+            Console.WriteLine(s);
+            return s;
         }
     }
 }

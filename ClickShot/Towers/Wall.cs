@@ -8,9 +8,10 @@ namespace ClickShot.Towers
 {
     public class Wall : BaseTower
     {
-        public Wall(Game game) : base(game, "Wall")
+        
+        internal Wall(Game game) : base(game, "Wall")
         {
-
+            Lvl = 0;
         }
     }
 }
