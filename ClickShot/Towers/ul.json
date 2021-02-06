@@ -1,0 +1,102 @@
+﻿{
+	"onTrack": [
+		{
+			"health": 100.0,
+			"damage": 0.0,
+			"range": 0.0
+		},
+		{
+			"defense": [
+				{
+					"health": 150.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+					"health": 200.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+					"health": 250.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+					"health": 300.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+					
+				}
+			],
+			"attack": [
+				{
+					"health": 100.0,
+					"damage": 5.0,
+					"range": 0.0
+				},
+				{
+					"health": 100.0,
+					"damage": 7.5,
+					"range": 0.0
+				},
+				{
+					"health": 100.0,
+					"damage": 10.0,
+					"range": 0.0
+				},
+				{
+					"health": 100.0,
+					"damage": 12.5,
+					"range": 0.0
+				},
+				{
+					
+				}
+			],
+			"support": [
+				{
+					"health": 100.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+					"health": 100.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+					"health": 100.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+					"health": 100.0,
+					"damage": 0.0,
+					"range": 0.0
+				},
+				{
+
+				}
+			]
+		}
+	],
+	"onLand": [
+		{
+			"health": 50.0
+		},
+		{
+			"defense": [
+				
+			],
+			"attack": [
+				
+			],
+			"support": [
+				
+			]
+		}
+	]
+}
